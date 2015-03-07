@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "My First Article"
+title: "Test for Gene315"
 doi: # e.g. 10.1234/example.1
 date: # e.g. 2015-03-02
 authors:
-  - name: First Author
+  - name: Megan J Wilson
     email: first.author@example.com
     affiliations:
       - Department, Institution, City, Postal Code, Country
