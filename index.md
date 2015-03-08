@@ -5,9 +5,9 @@ doi: # e.g. 10.1234/example.1
 date: # e.g. 2015-03-02
 authors:
   - name: Megan J Wilson
-    email: first.author@example.com
+    email: megan.wilson@anatomy.otago.ac.nz
     affiliations:
-      - Department, Institution, City, Postal Code, Country
+      - Anatomy, University of Otago, Dunedin, New Zealand
     funders:
         - name: Medical Research Council
           uri: http://dx.doi.org/10.13039/501100000265
@@ -22,7 +22,7 @@ authors:
         uri: http://dx.doi.org/10.13039/100000002
         awards: [ NIH123 ]
 abstract: |
-    This is the first paragraph of the abstract.
+    This is a test paper.
 
     This is another paragraph of the abstract.
 ---
