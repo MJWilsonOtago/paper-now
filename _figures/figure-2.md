@@ -4,7 +4,7 @@ label: Figure 2
 title: A visualisation
 description: A visualisation of the data
 embed:
-    url: data/phyllotaxis/
+    url: file:///Users/Megan/Documents/Teaching/Gene315/gene315.jpg
     width: 1400
     height: 1000
 ---
