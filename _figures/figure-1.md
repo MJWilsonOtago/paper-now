@@ -1,7 +1,7 @@
 ---
 layout: figure
 label: Figure 1
-title: A box chart
-description: A description of the data
-image: data/cell-culture/box-chart.png
+title: Summary
+description: Gene315 overview
+image: Users/Megan/Documents/Teaching/Gene315/gene315.jpg
 ---
